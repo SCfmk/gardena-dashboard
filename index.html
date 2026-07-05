@@ -1,0 +1,105 @@
+<!doctype html>
+<html lang="no">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Gardena klippelogg</title>
+  <style>
+    body {
+      font-family: system-ui, sans-serif;
+      margin: 0;
+      background: #f5f7f4;
+      color: #1f2a1f;
+    }
+    main {
+      max-width: 950px;
+      margin: auto;
+      padding: 1.2rem;
+    }
+    .card {
+      background: white;
+      border-radius: 16px;
+      padding: 1rem;
+      margin: 1rem 0;
+      box-shadow: 0 2px 12px rgba(0,0,0,.08);
+    }
+    h1, h2 {
+      margin-top: 0;
+    }
+    .status {
+      font-size: 1.8rem;
+      font-weight: 700;
+    }
+    .meta {
+      color: #536353;
+      line-height: 1.5;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: .9rem;
+    }
+    th, td {
+      padding: .45rem;
+      border-bottom: 1px solid #ddd;
+      text-align: left;
+      vertical-align: top;
+    }
+    th {
+      background: #eef2ec;
+    }
+    .small {
+      font-size: .85rem;
+      color: #687868;
+    }
+  </style>
+</head>
+<body>
+<main>
+  <h1>Gardena klippelogg</h1>
+
+  <section class="card">
+    <div class="status">🔴 Martin: Parkert</div>
+    <p class="meta">
+      Batteri: 100 %<br>
+      Activity: <code>PARKED_PARK_SELECTED</code><br>
+      Sist oppdatert: 2026-07-05T00:08:54
+    </p>
+  </section>
+
+  <section class="card">
+    <h2>Siste klippeøkter</h2>
+    <table>
+      <thead>
+        <tr>
+          <th>Start</th>
+          <th>Slutt</th>
+          <th>Varighet</th>
+          <th>Batteri</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr><td colspan="4">Ingen fullførte klippeøkter ennå.</td></tr>
+      </tbody>
+    </table>
+  </section>
+
+  <section class="card">
+    <h2>Siste hendelser</h2>
+    <table>
+      <thead>
+        <tr>
+          <th>Tid</th>
+          <th>Hendelse</th>
+          <th>Status</th>
+          <th>Batteri</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr><td>2026-07-04T23:37:55</td><td>Activity endret: PARKED_TIMER → PARKED_PARK_SELECTED</td><td>Parkert<br><span class='small'>PARKED_PARK_SELECTED</span></td><td>100 %</td></tr>
+      </tbody>
+    </table>
+  </section>
+</main>
+</body>
+</html>
