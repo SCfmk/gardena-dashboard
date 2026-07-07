@@ -7,3 +7,4 @@ tid,hendelse,navn,status,activity,state,battery,operating_hours
 2026-07-06T11:03:47,Status endret: Ukjent → Parkert,Martin,Parkert,PARKED_PARK_SELECTED,OK,100,15
 2026-07-07T09:20:32,Status endret: Parkert → Lader,Martin,Lader,OK_CHARGING,OK,95,17
 2026-07-07T15:21:43,Klipping startet,Martin,Klipper,OK_CUTTING,OK,50,19
+2026-07-07T17:31:34,Status endret: Klipper → Ukjent,Martin,Ukjent,NONE,ERROR,35,21
