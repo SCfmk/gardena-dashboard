@@ -10,3 +10,4 @@ tid,hendelse,navn,status,activity,state,battery,operating_hours
 2026-07-07T17:31:34,Status endret: Klipper → Ukjent,Martin,Ukjent,NONE,ERROR,35,21
 2026-08-01T15:09:53,Klipping startet,Martin,Klipper,OK_CUTTING,OK,85,21
 2026-08-01T17:18:22,Klipping avsluttet,Martin,Parkert,PARKED_TIMER,OK,70,23
+2026-08-01T18:15:59,Activity endret: PARKED_TIMER → PARKED_PARK_SELECTED,Martin,Parkert,PARKED_PARK_SELECTED,OK,100,23
