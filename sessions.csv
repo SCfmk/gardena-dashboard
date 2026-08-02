@@ -1,3 +1,4 @@
 start,slutt,varighet_minutter,navn,start_battery,slutt_battery,start_operating_hours,slutt_operating_hours,start_activity,slutt_activity
 2026-08-01T15:09:53,2026-08-01T17:18:22,128.5,Martin,85,70,21,23,OK_CUTTING,PARKED_TIMER
 2026-08-02T07:22:28,2026-08-02T09:31:50,129.4,Martin,55,95,23,25,OK_CUTTING,OK_CHARGING
+2026-08-02T11:03:59,2026-08-02T12:15:40,71.7,Martin,50,60,25,27,OK_CUTTING,OK_CHARGING

@@ -14,3 +14,4 @@ tid,hendelse,navn,status,activity,state,battery,operating_hours
 2026-08-02T07:22:28,Klipping startet,Martin,Klipper,OK_CUTTING,OK,55,23
 2026-08-02T09:31:50,Klipping avsluttet,Martin,Lader,OK_CHARGING,OK,95,25
 2026-08-02T11:03:59,Klipping startet,Martin,Klipper,OK_CUTTING,OK,50,25
+2026-08-02T12:15:40,Klipping avsluttet,Martin,Lader,OK_CHARGING,OK,60,27
