@@ -17,3 +17,4 @@ tid,hendelse,navn,status,activity,state,battery,operating_hours
 2026-08-02T12:15:40,Klipping avsluttet,Martin,Lader,OK_CHARGING,OK,60,27
 2026-08-02T14:04:09,Klipping startet,Martin,Klipper,OK_CUTTING,OK,75,27
 2026-08-02T15:19:33,Status endret: Klipper → Søker GPS,Martin,Søker GPS,SEARCHING_FOR_SATELLITES,OK,40,27
+2026-08-02T16:27:01,Status endret: Søker GPS → Lader,Martin,Lader,OK_CHARGING,OK,70,29
