@@ -23,3 +23,4 @@ tid,hendelse,navn,status,activity,state,battery,operating_hours
 2026-08-03T16:10:43,Klipping avsluttet,Martin,Lader,OK_CHARGING,OK,35,36
 2026-08-03T18:07:09,Status endret: Lader → Parkert,Martin,Parkert,PARKED_PARK_SELECTED,OK,100,36
 2026-08-04T07:19:47,Klipping startet,Martin,Klipper,OK_CUTTING,OK,65,36
+2026-08-04T12:18:07,Status endret: Klipper → Ukjent,Martin,Ukjent,NONE,ERROR,55,40
