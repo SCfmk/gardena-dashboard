@@ -27,3 +27,4 @@ tid,hendelse,navn,status,activity,state,battery,operating_hours
 2026-08-04T14:45:58,Status endret: Ukjent → Parkert,Martin,Parkert,PARKED_TIMER,OK,85,40
 2026-08-04T18:18:51,Activity endret: PARKED_TIMER → PARKED_PARK_SELECTED,Martin,Parkert,PARKED_PARK_SELECTED,OK,100,40
 2026-08-05T07:20:33,Klipping startet,Martin,Klipper,OK_CUTTING,OK,60,40
+2026-08-05T12:15:49,Søker ladestasjon,Martin,Søker ladestasjon,OK_SEARCHING,OK,35,45
